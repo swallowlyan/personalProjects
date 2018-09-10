@@ -29,7 +29,43 @@
 <div @事件名="fn"></div>
 
 
-
 ##安装
 cnpm install vue axios bootstrap
+
+cnpm install axios
+
+cnpm install animate.css
+
+##promise
+
+fetch
+asynca wait //终极异步解决方案
+
+
+
+##vue第二天复习
+
+-v-model （如果checkbox,select多选是数组，提供一个value属性）
+（radio checkbox分组靠的是v-model）,checked selected不存在
+
+-修饰符  .number .lazy
+
+-按键修饰符 .enter .ctrl .keyCode
+
+-事件  
+	-@事件.stop
+	stopPropagation，cancleBubble=true;
+	-@事件.captrue
+	xxx.addEventListener('click',fn)///(true-捕获，false-冒泡；默认冒泡)
+	-@事件.prevent
+        preventDefault,returnValue=true;
+	-@事件.once
+	on（'click'） off('click')
+	-@事件.self
+	e.srcElement&&e.target 判断事件源绑定事件
+
+-jquery once 
+
+-e.srcElement&&e.target 判断事件源绑定事件
+
 
