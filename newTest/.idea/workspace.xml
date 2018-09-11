@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/computed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modified.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transition.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transition_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computed-checkAll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computed-confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/watch-computed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/watch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promiseAjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promiseAjax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promiseAjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promiseAjax.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,7 +23,7 @@
     <session id="677408611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.26" value="1" />
@@ -34,13 +31,14 @@
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.67" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="22" />
+          <entry key="html" value="29" />
           <entry key="js" value="9" />
           <entry key="json" value="11" />
           <entry key="ts" value="1" />
@@ -49,7 +47,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="22" />
+          <entry key="HTML" value="29" />
           <entry key="JSON" value="11" />
           <entry key="JavaScript" value="9" />
           <entry key="TypeScript" value="1" />
@@ -57,7 +55,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="6479" />
+          <entry key="html" value="7669" />
           <entry key="js" value="1135" />
           <entry key="json" value="18" />
           <entry key="txt" value="6" />
@@ -65,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="6479" />
+          <entry key="HTML" value="7669" />
           <entry key="JSON" value="18" />
           <entry key="JavaScript" value="1135" />
           <entry key="PLAIN_TEXT" value="6" />
@@ -75,11 +73,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modified.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/watch-computed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="264">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/watch.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -126,6 +133,12 @@
         <option value="$PROJECT_DIR$/transition.html" />
         <option value="$PROJECT_DIR$/transition_1.html" />
         <option value="$PROJECT_DIR$/modified.html" />
+        <option value="$PROJECT_DIR$/filters.html" />
+        <option value="$PROJECT_DIR$/checkAll.html" />
+        <option value="$PROJECT_DIR$/computed-checkAll.html" />
+        <option value="$PROJECT_DIR$/computed-confirm.html" />
+        <option value="$PROJECT_DIR$/watch-computed.html" />
+        <option value="$PROJECT_DIR$/watch.html" />
       </list>
     </option>
   </component>
@@ -168,8 +181,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="301" />
-    <option name="y" value="19" />
+    <option name="x" value="224" />
+    <option name="y" value="61" />
     <option name="width" value="1400" />
     <option name="height" value="846" />
   </component>
@@ -257,7 +270,8 @@
       <workItem from="1536198402231" duration="623000" />
       <workItem from="1536284631291" duration="4311000" />
       <workItem from="1536548308619" duration="7888000" />
-      <workItem from="1536564633080" duration="5166000" />
+      <workItem from="1536564633080" duration="5341000" />
+      <workItem from="1536627237327" duration="8200000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1535956009077</created>
@@ -291,10 +305,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52281000" />
+    <option name="totallyTimeSpent" value="60656000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="301" y="19" width="1400" height="846" extended-state="0" />
+    <frame x="224" y="61" width="1400" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24889868" />
@@ -306,7 +329,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286517" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -452,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/promise/promiseAjax.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -488,8 +504,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modified.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="216">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computed-checkAll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computed-confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch-computed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
