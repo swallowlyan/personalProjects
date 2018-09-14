@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/computed-checkAll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computed-confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/watch-computed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/watch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if-show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todoList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v-bind_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v-bind_style.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记.txt" afterDir="false" />
     </list>
@@ -23,23 +23,24 @@
     <session id="677408611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="29" />
-          <entry key="js" value="9" />
+          <entry key="html" value="33" />
+          <entry key="js" value="10" />
           <entry key="json" value="11" />
           <entry key="ts" value="1" />
         </counts>
@@ -47,25 +48,25 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="29" />
+          <entry key="HTML" value="33" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="10" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="7669" />
-          <entry key="js" value="1135" />
+          <entry key="html" value="8860" />
+          <entry key="js" value="1199" />
           <entry key="json" value="18" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="7669" />
+          <entry key="HTML" value="8860" />
           <entry key="JSON" value="18" />
-          <entry key="JavaScript" value="1135" />
+          <entry key="JavaScript" value="1199" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -74,19 +75,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/watch-computed.html">
+        <entry file="file://$PROJECT_DIR$/todoList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="840">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/watch.html">
+        <entry file="file://$PROJECT_DIR$/todo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="168">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -97,6 +98,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -139,6 +141,11 @@
         <option value="$PROJECT_DIR$/computed-confirm.html" />
         <option value="$PROJECT_DIR$/watch-computed.html" />
         <option value="$PROJECT_DIR$/watch.html" />
+        <option value="$PROJECT_DIR$/if-show.html" />
+        <option value="$PROJECT_DIR$/v-bind.html" />
+        <option value="$PROJECT_DIR$/v-bind_style.html" />
+        <option value="$PROJECT_DIR$/todoList.html" />
+        <option value="$PROJECT_DIR$/todo.js" />
       </list>
     </option>
   </component>
@@ -156,6 +163,7 @@
       <path value="$PROJECT_DIR$/node_modules/_axios@0.18.0@axios/node_modules/follow-redirects/package.json" />
       <path value="$PROJECT_DIR$/node_modules/_axios@0.18.0@axios/node_modules/is-buffer/package.json" />
       <path value="$PROJECT_DIR$/node_modules/_axios@0.18.0@axios/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/_bootstrap@4.1.3@bootstrap/package.json" />
       <path value="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/node_modules/ms/package.json" />
       <path value="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/package.json" />
       <path value="$PROJECT_DIR$/node_modules/_follow-redirects@1.5.7@follow-redirects/node_modules/debug/node_modules/ms/package.json" />
@@ -170,6 +178,7 @@
       <path value="$PROJECT_DIR$/node_modules/axios/node_modules/follow-redirects/package.json" />
       <path value="$PROJECT_DIR$/node_modules/axios/node_modules/is-buffer/package.json" />
       <path value="$PROJECT_DIR$/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bootstrap/package.json" />
       <path value="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" />
       <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
       <path value="$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/node_modules/ms/package.json" />
@@ -181,10 +190,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="224" />
-    <option name="y" value="61" />
+    <option name="x" value="381" />
+    <option name="y" value="58" />
     <option name="width" value="1400" />
-    <option name="height" value="846" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -271,7 +280,9 @@
       <workItem from="1536284631291" duration="4311000" />
       <workItem from="1536548308619" duration="7888000" />
       <workItem from="1536564633080" duration="5341000" />
-      <workItem from="1536627237327" duration="8200000" />
+      <workItem from="1536627237327" duration="8478000" />
+      <workItem from="1536713877960" duration="8027000" />
+      <workItem from="1536913721343" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1535956009077</created>
@@ -305,7 +316,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60656000" />
+    <option name="totallyTimeSpent" value="69558000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +328,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="61" width="1400" height="846" extended-state="0" />
+    <frame x="381" y="58" width="1400" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24889868" />
@@ -329,7 +340,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.15564738" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -414,13 +425,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vue/dist/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vue/src/core/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -539,15 +544,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/watch-computed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="480">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/watch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="740">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v-bind_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v-bind_style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
