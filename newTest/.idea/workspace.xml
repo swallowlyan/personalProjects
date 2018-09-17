@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/if-show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todoList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v-bind_class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v-bind_style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记.txt" afterDir="false" />
-    </list>
+    <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,7 +15,7 @@
     <session id="677408611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.26" value="1" />
@@ -189,9 +181,9 @@
       <path value="$PROJECT_DIR$/node_modules/vue/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="381" />
-    <option name="y" value="58" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="250" />
+    <option name="y" value="49" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
   </component>
@@ -282,7 +274,7 @@
       <workItem from="1536564633080" duration="5341000" />
       <workItem from="1536627237327" duration="8478000" />
       <workItem from="1536713877960" duration="8027000" />
-      <workItem from="1536913721343" duration="597000" />
+      <workItem from="1536913721343" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1535956009077</created>
@@ -316,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69558000" />
+    <option name="totallyTimeSpent" value="70165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,8 +320,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="381" y="58" width="1400" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="250" y="49" width="1400" height="860" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24889868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
