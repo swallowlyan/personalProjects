@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="" />
+    <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,17 +17,18 @@
     <session id="677408611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -181,7 +184,7 @@
       <path value="$PROJECT_DIR$/node_modules/vue/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="250" />
     <option name="y" value="49" />
     <option name="width" value="1400" />
@@ -212,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vuecli_test/vuecli_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../echarts-map" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -275,6 +278,7 @@
       <workItem from="1536627237327" duration="8478000" />
       <workItem from="1536713877960" duration="8027000" />
       <workItem from="1536913721343" duration="1204000" />
+      <workItem from="1537249176385" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1535956009077</created>
@@ -308,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70165000" />
+    <option name="totallyTimeSpent" value="70365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +324,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="49" width="1400" height="860" extended-state="1" />
+    <frame x="250" y="49" width="1400" height="860" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24889868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
