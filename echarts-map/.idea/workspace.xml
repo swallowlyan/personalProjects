@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a753f9b-72c4-4556-a894-9982b9c2e374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/china.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9a753f9b-72c4-4556-a894-9982b9c2e374" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,6 +15,7 @@
     <session id="552809870">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -60,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/new.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="546" column="40" lean-forward="true" selection-start-line="546" selection-start-column="40" selection-end-line="546" selection-end-column="40" />
+              <caret line="546" column="33" lean-forward="true" selection-start-line="546" selection-start-column="33" selection-end-line="546" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#618#675#0" />
@@ -252,22 +244,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537249377512</updated>
-      <workItem from="1537249379927" duration="5661000" />
+      <workItem from="1537249379927" duration="6478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5661000" />
+    <option name="totallyTimeSpent" value="6478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,6 +275,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -330,7 +347,7 @@
     <entry file="file://$PROJECT_DIR$/new.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="546" column="40" lean-forward="true" selection-start-line="546" selection-start-column="40" selection-end-line="546" selection-end-column="40" />
+          <caret line="546" column="33" lean-forward="true" selection-start-line="546" selection-start-column="33" selection-end-line="546" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#618#675#0" />
