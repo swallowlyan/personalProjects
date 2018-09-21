@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a23943-a095-4a2f-b51a-06f50f9fd3a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-freemarker-demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/iscasqd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/LifeCycle/lifeCycle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/directive_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/emit-on.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/mounted.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/parent-child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/scop-component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/todoList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/transclude-component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../echarts-map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../echarts-map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/cart/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carts.json" beforeDir="false" afterPath="$PROJECT_DIR$/day2/cart/carts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/checkbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computed-checkAll.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/computed-checkAll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computed-confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/computed-confirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computed.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/computed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directive.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/directive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filters.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/filters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWord.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/helloWord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if-show.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/if-show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/modified.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promise/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/promise/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promise/promiseAjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/promise/promiseAjax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promise/promiseAjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/promise/promiseAjax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactivity.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/reactivity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactivity2.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/reactivity2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/day3/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transition.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/transition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transition_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/transition_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v-bind_class.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/v-bind_class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v-bind_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/v-bind_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v-for.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/v-for.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch-computed.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/watch-computed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/watch.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +59,7 @@
         <counts>
           <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
@@ -28,14 +68,14 @@
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="33" />
-          <entry key="js" value="10" />
+          <entry key="html" value="49" />
+          <entry key="js" value="17" />
           <entry key="json" value="11" />
           <entry key="ts" value="1" />
         </counts>
@@ -43,25 +83,25 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="33" />
+          <entry key="HTML" value="49" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="10" />
+          <entry key="JavaScript" value="17" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="8860" />
-          <entry key="js" value="1199" />
+          <entry key="html" value="12556" />
+          <entry key="js" value="2906" />
           <entry key="json" value="18" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="8860" />
+          <entry key="HTML" value="12556" />
           <entry key="JSON" value="18" />
-          <entry key="JavaScript" value="1199" />
+          <entry key="JavaScript" value="2906" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -69,20 +109,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todoList.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/todo.js">
+        <entry file="file://$PROJECT_DIR$/day3/emit-on.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="294">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -100,6 +131,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>depen</find>
+      <find>test</find>
+      <find>localStorage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,8 +172,18 @@
         <option value="$PROJECT_DIR$/if-show.html" />
         <option value="$PROJECT_DIR$/v-bind.html" />
         <option value="$PROJECT_DIR$/v-bind_style.html" />
+        <option value="$PROJECT_DIR$/directive_1.html" />
         <option value="$PROJECT_DIR$/todoList.html" />
         <option value="$PROJECT_DIR$/todo.js" />
+        <option value="$PROJECT_DIR$/LifeCycle/lifeCycle.html" />
+        <option value="$PROJECT_DIR$/day2/computed.html" />
+        <option value="$PROJECT_DIR$/day3/mounted.js" />
+        <option value="$PROJECT_DIR$/day3/mounted.html" />
+        <option value="$PROJECT_DIR$/day3/component.html" />
+        <option value="$PROJECT_DIR$/day3/scop-component.html" />
+        <option value="$PROJECT_DIR$/day3/transclude-component.html" />
+        <option value="$PROJECT_DIR$/day3/parent-child.html" />
+        <option value="$PROJECT_DIR$/day3/emit-on.js" />
       </list>
     </option>
   </component>
@@ -185,10 +228,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="250" />
-    <option name="y" value="49" />
-    <option name="width" value="1400" />
-    <option name="height" value="860" />
+    <option name="x" value="217" />
+    <option name="y" value="69" />
+    <option name="width" value="1068" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -205,6 +248,11 @@
               <item name="newTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="newTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="newTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newTest" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,12 +263,20 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../echarts-map" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\个人\project\newTest\day2" />
+      <recent name="F:\个人\project\newTest\day3" />
+      <recent name="F:\个人\project\newTest\day1" />
+      <recent name="F:\个人\project\newTest\cart" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\个人\project\newTest\day3" />
+      <recent name="F:\个人\project\newTest\LifeCycle" />
       <recent name="F:\个人\project\newTest" />
       <recent name="F:\个人\project\newTest\promise" />
     </key>
@@ -237,7 +293,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.promiseAjax.js">
+  <component name="RunManager" selected="Node.js.emit-on.js">
+    <configuration name="emit-on.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="emit-on.js" working-dir="$PROJECT_DIR$/day3">
+      <method v="2" />
+    </configuration>
     <configuration name="promiseAjax.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="promiseAjax.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -247,9 +306,11 @@
     <list>
       <item itemvalue="Node.js.promise.js" />
       <item itemvalue="Node.js.promiseAjax.js" />
+      <item itemvalue="Node.js.emit-on.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.emit-on.js" />
         <item itemvalue="Node.js.promiseAjax.js" />
         <item itemvalue="Node.js.promise.js" />
       </list>
@@ -279,6 +340,7 @@
       <workItem from="1536713877960" duration="8027000" />
       <workItem from="1536913721343" duration="1204000" />
       <workItem from="1537249176385" duration="200000" />
+      <workItem from="1537492269221" duration="24521000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1535956009077</created>
@@ -312,7 +374,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70365000" />
+    <option name="totallyTimeSpent" value="94886000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,22 +386,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="49" width="1400" height="860" extended-state="0" />
+    <frame x="609" y="0" width="1068" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24889868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1815534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32833582" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.15564738" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3278237" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.24380165" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -363,56 +427,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloWord.html">
+    <entry file="file://$PROJECT_DIR$/day1/helloWord.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactivity.html">
+    <entry file="file://$PROJECT_DIR$/day2/reactivity.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reactivity2.html">
+    <entry file="file://$PROJECT_DIR$/day2/reactivity2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo.html">
+    <entry file="file://$PROJECT_DIR$/day3/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v-for.html">
+    <entry file="file://$PROJECT_DIR$/day1/v-for.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkbox.html">
+    <entry file="file://$PROJECT_DIR$/day1/checkbox.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
@@ -429,7 +479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/select.html">
+    <entry file="file://$PROJECT_DIR$/day1/select.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
@@ -461,38 +511,31 @@
     <entry file="file://E:/vue-devtools-master/shells/chrome/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carts.json">
+    <entry file="file://$PROJECT_DIR$/day2/cart/carts.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promise/promiseAjax.html">
+    <entry file="file://$PROJECT_DIR$/day1/promise/promiseAjax.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promise/promiseAjax.js">
+    <entry file="file://$PROJECT_DIR$/day1/promise/promiseAjax.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/transition.html">
+    <entry file="file://$PROJECT_DIR$/day2/transition.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
           <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transition_1.html">
+    <entry file="file://$PROJECT_DIR$/day2/transition_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-72">
           <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
@@ -502,87 +545,167 @@
     <entry file="file://$PROJECT_DIR$/node_modules/animate.css/animate.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/modified.html">
+    <entry file="file://$PROJECT_DIR$/day2/modified.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filters.html">
+    <entry file="file://$PROJECT_DIR$/day1/filters.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/computed-checkAll.html">
+    <entry file="file://$PROJECT_DIR$/day2/computed-checkAll.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computed-confirm.html">
+    <entry file="file://$PROJECT_DIR$/day2/computed-confirm.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/watch-computed.html">
+    <entry file="file://$PROJECT_DIR$/day2/watch-computed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/watch.html">
+    <entry file="file://$PROJECT_DIR$/day2/watch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
           <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/if-show.html">
+    <entry file="file://$PROJECT_DIR$/day1/if-show.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v-bind_class.html">
+    <entry file="file://$PROJECT_DIR$/day1/v-bind_class.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v-bind_style.html">
+    <entry file="file://$PROJECT_DIR$/day1/v-bind_style.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todoList.html">
+    <entry file="file://$PROJECT_DIR$/day3/todoList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="187">
+          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo.js">
+    <entry file="file://$PROJECT_DIR$/day3/todo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="120">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/directive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/computed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/mounted.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/LifeCycle/lifeCycle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/directive_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/scop-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/mounted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/transclude-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/parent-child.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/emit-on.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>watch-computed</title>
+    <link href="https://cdn.bootcss.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div id="app">
+    <input type="text" v-model="val">{{fullName}}
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+<script>
+    let vm=new Vue({
+        el:"#app",
+        computed:{
+          fullName(){
+              return this.firstName+"-"+this.val+"-"+this.lastName;
+          }
+        },
+        /*watch:{
+            val(newVal){
+                this.fullName=this.firstName+"-"+newVal+"-"+this.lastName;
+            }
+        },*/
+        data:{
+            firstName:"zeze",
+            lastName:"hahaa",
+            val:"",//firstName-val-lastName
+            // fullName:""
+        }
+
+
+    });
+</script>
+</body>
+</html>
+
+<!--
+computed:{
+          a:{//如果写了set方法 并且val给了别人，则当前的a就不会被赋予结果了
+              get(){
+
+              },
+              set(){}
+          }
+        },
+-->

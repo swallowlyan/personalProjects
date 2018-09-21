@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>directive_1</title>
+</head>
+<body>
+<div id="app">
+    <button v-color="flag">变色</button>
+    <div ></div>
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+<script>
+    let vm=new Vue({
+        directives:{
+          color(el,bindings){//el知道的是button按钮
+              el.style.background=bindings.value;
+          }
+        },
+        el:"#app",
+        data:{
+
+        }
+    })
+</script>
+</body>
+</html>

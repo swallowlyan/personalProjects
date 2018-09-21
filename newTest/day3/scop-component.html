@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>scop-component</title>
+</head>
+<body>
+
+<div id="app">
+    <handsome></handsome>
+    <component/>
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+
+<script>
+    //局部组件  使用三部曲：1.创建组件2.注册组件3.使用组件
+    //组件是相互独立的  不能直接跨作用域 实例也是一个组件，组件
+    // 中拥有声明周期函数
+    let obj={school:"azzz"};//如果组件共用了数据  会导致同时更新（独立性）
+    //子组件不能直接使用父组件的数据（组件之间的数据交互）
+    //组件理论上可以无限嵌套
+    let handsome={template:`<div @click="fn">哈哈哈哈哈哈哈嗝{{school}}</div>`,
+        data(){
+        return obj
+        },
+        methods:{
+        fn(){
+            this.school="hello";
+        }
+        }
+   };
+    let component={
+        template: "<div>123123{{school}}</div>",
+        data(){
+            return obj;
+        }
+    };
+    let vm=new Vue({
+        el:"#app",
+        components:{
+            handsome:handsome,
+            component:component
+        },
+        data:{
+            a:1
+        }
+    })
+</script>
+</body>
+</html>

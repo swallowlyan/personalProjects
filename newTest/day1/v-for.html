@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>v-for</title>
+</head>
+<body>
+<!--以前：拼字符串innerHTML-->
+<!--vue提供一个指令 v-for解决循环问题的 高效 会复用原有的结构-->
+<div id="app">
+    <!--要循环谁就在谁的身上增加v-for属性-->
+<ul>
+    <li v-for="(fruit,index) in fruits">{{fruit.name}}  {{index+1}}</li>
+</ul>
+    <ul v-for="(fruit,index) in fruits">
+        <li>{{index+1}}:{{fruit.name}}:
+            <ul>
+                <li v-for="(color,index1) in fruit.color">{{index+1}}.{{index1+1}}  {{color}}</li>
+            </ul>
+        </li>
+    </ul>
+    <div v-for="c in 'aaaa'">{{c}}</div>
+    <div v-for="c in 5">{{c}}</div>
+    <div v-for="(value,key,index) in obj">{{index}}  {{key}}:{{value}}</div>
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+<script>
+    let vm=new Vue({
+        el:"#app",
+        data:{
+            obj:{name:"test",age:10,address:"xxxx"},
+            fruits:[{name:"香蕉",color:["green","yellow"]},
+                    {name:"苹果",color:["green","yellow","red"]},
+                    {name:"西瓜",color:["green","pink"]}]
+        }
+    })
+</script>
+</body>
+</html>

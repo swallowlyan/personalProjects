@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>modified</title>
+</head>
+<body>
+<div id="app">
+    <!--stopPropagation 阻止事件传播-->
+<div @click.capture.stop="parent">parent
+<div @click.stop="child">
+    child
+    <div @click="grandson">grandson</div>
+</div>
+</div>
+    <a href="http://www.zhufengpeixun.cn" @click.prevent="parent">去珠峰</a>
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+<script>
+    let vm=new Vue({//根实例
+        el:"#app",
+        data:{//都是数据
+        },
+        methods:{
+            parent(){
+                alert("parent");
+            },
+            child(){
+                alert("child");
+            },
+            grandson(e){
+                alert("grandson");
+            }
+        }
+    });
+</script>
+</body>
+</html>
