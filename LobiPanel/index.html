@@ -1,0 +1,50 @@
+<head>
+    <title>高管视图-首页</title>
+<link rel="stylesheet" href="css/jquery-ui.min.css"/>
+<link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="dist/css/lobipanel.min.css"/>
+ 
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="dist/js/lobipanel.min.js"></script>
+
+</head>
+<body class="gray-bg" >
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <div class="panel-title">
+                <h4>Panel title</h4>
+            </div>
+        </div>
+        <div class="panel-body">
+            Lorem ipsum...
+        </div>
+    </div>   
+<script>
+    $(function(){
+         
+ $(".panel").lobiPanel({
+        //配置参数
+        sortable: true,
+        minWidth: 300,
+        minHeight: 300,
+        maxWidth: 600,
+        maxHeight: 480,
+        
+        minimize: {
+            tooltip: '最小化'
+        },
+        expand: {
+            tooltip: '全屏'
+        }
+    });
+    //修改参数的方式
+    $(".panel").lobiPanel('enableResize');
+    $(".panel").lobiPanel('unpin');
+    $(".panel").lobiPanel("setSize", 560, 432);
+    $(".panel").lobiPanel("setPosition", 1000, 100);
+
+    })
+</script>    
+</body>

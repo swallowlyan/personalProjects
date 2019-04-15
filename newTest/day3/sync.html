@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sync</title>
+</head>
+<body>
+<div id="app">
+    父亲：{{money}}
+    <!--<child :m="money" @update:m="val=>this.money=val"></child>-->
+    <child :m.sync="money"></child>
+    <!--写的时候还是按照原有的写法即可  语法糖-->
+</div>
+<script src="../node_modules/vue/dist/vue.js"></script>
+<script>
+    //父传子
+let vm=new Vue({//parent
+    el:"#app",
+    components:{
+      child:{
+          props:['m'],
+          template:"<div>儿子{{m}}<button @click='getMoney()'>多要钱</button></div>",
+          methods:{
+              getMoney(){
+                  this.$emit('update:m',800);//触发自己的自定义时间，让父类的方法执行
+              }
+          }
+      }
+    },
+    data:{
+        money:400
+    }
+
+});
+</script>
+</body>
+</html>
