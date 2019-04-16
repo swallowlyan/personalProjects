@@ -2,6 +2,7 @@ import Common from './Common'
 import MuseUI from './Muse-UI'
 import MintUI from './Mint-UI'
 import iViewUI from './iView-UI'
+import ElementUI from './Element-UI'
 
 var getTemplate = function(info, _attr = {}, _slots = {}) {
     let component
@@ -17,6 +18,9 @@ var getTemplate = function(info, _attr = {}, _slots = {}) {
             break
         case 'Common':
             component = Common[info.name](_attr, _slots, info)
+            break
+        case 'Element-UI':
+            component = ElementUI[info.name](_attr, _slots, info)
             break
     }
 

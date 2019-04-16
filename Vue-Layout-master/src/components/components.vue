@@ -115,10 +115,10 @@
                 <li draggable="true" @dragstart="dragStart" data-name="Card">
                     <card />
                 </li>
-                <!--                 
+                <!--
                 <li draggable="true" @dragstart="dragStart" data-name="Back Top">
                     <backTop/>
-                </li> 
+                </li>
                 -->
             </ul>
         </div>
@@ -215,15 +215,13 @@
                 </li>
             </ul>
         </div>
-        <div v-if="activeUI === 'Element-UI'">
+        <!--<div v-if="activeUI === 'Element-UI'">
             <ul class="components-list">
-                <!--                 
-                <li draggable="true" @dragstart="dragStart" data-name="Header">
-                    <mt-header fixed title="Header"></mt-header>
-                </li> 
-                -->
+                <li draggable="true" @dragstart="dragStart" data-name="El-dropdown">
+                    <dropdown />
+                </li>
             </ul>
-        </div>
+        </div>-->
         <div v-if="activeUI==='Common'">
             <ul class="components-list">
                 <li draggable="true" @dragstart="dragStart" data-name="Text">
@@ -246,9 +244,10 @@
     </section>
 </template>
 <script>
-import museUiList from './list/muse-ui'
+import museUiList from './list/element-ui/muse-ui'
 import mintUiList from './list/mint-ui'
 import iViewUiList from './list/iview-ui'
+// import elementUiList from './list/element-ui'
 export default {
     name: 'components',
     data() {
@@ -297,7 +296,8 @@ export default {
     components: {
         ...museUiList,
         ...mintUiList,
-        ...iViewUiList
+        ...iViewUiList,
+      // ...elementUiList
     }
 }
 </script>
