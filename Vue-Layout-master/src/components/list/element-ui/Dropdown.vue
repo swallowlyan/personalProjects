@@ -15,7 +15,7 @@
 
 <script>
     export default {
-        name: "el-dropdown"
+        name: "dropdown"
     }
 </script>
 

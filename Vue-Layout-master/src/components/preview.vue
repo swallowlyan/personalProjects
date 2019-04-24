@@ -261,11 +261,11 @@ export default {
                 if (!component.template)
                     throw '没有这个组件的模板'
 
-                let components = JSON.parse(JSON.stringify(this.components))
+                let components = JSON.parse(JSON.stringify(this.components));
                 if (!this.insertPosition.position) {
 
                     components.push(component)
-                    this.components = components
+                    this.components = components;
                     this.mount()
 
                 } else {

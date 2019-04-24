@@ -215,13 +215,13 @@
                 </li>
             </ul>
         </div>
-        <!--<div v-if="activeUI === 'Element-UI'">
+        <div v-if="activeUI === 'Element-UI'">
             <ul class="components-list">
-                <li draggable="true" @dragstart="dragStart" data-name="El-dropdown">
+                <li draggable="true" @dragstart="dragStart" data-name="Dropdown">
                     <dropdown />
                 </li>
             </ul>
-        </div>-->
+        </div>
         <div v-if="activeUI==='Common'">
             <ul class="components-list">
                 <li draggable="true" @dragstart="dragStart" data-name="Text">
@@ -244,10 +244,10 @@
     </section>
 </template>
 <script>
-import museUiList from './list/element-ui/muse-ui'
+import museUiList from './list/muse-ui'
 import mintUiList from './list/mint-ui'
 import iViewUiList from './list/iview-ui'
-// import elementUiList from './list/element-ui'
+import elementUiList from './list/element-ui'
 export default {
     name: 'components',
     data() {
@@ -297,7 +297,7 @@ export default {
         ...museUiList,
         ...mintUiList,
         ...iViewUiList,
-      // ...elementUiList
+      ...elementUiList
     }
 }
 </script>

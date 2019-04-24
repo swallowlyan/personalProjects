@@ -5,7 +5,7 @@ import iViewUI from './iView-UI'
 import ElementUI from './Element-UI'
 
 var getTemplate = function(info, _attr = {}, _slots = {}) {
-    let component
+    let component;
     switch (info.ui) {
         case 'Muse-UI':
             component = MuseUI[info.name](_attr, _slots, info)
@@ -20,7 +20,9 @@ var getTemplate = function(info, _attr = {}, _slots = {}) {
             component = Common[info.name](_attr, _slots, info)
             break
         case 'Element-UI':
-            component = ElementUI[info.name](_attr, _slots, info)
+          console.info(info);
+          console.info(ElementUI);
+            component = ElementUI[info.name](_attr, _slots, info);
             break
     }
 
