@@ -180,7 +180,7 @@ export default {
             this.width = width
         },
         dragOver(e) {
-            e.preventDefault()
+            e.preventDefault();
         },
         drop(e) { //松开拖放,e是容器元素
 
@@ -190,7 +190,8 @@ export default {
 
             let isNest = e.target.className.indexOf('preview') === -1 && e.target.id !== 'placeholder'
             let info = JSON.parse(e.dataTransfer.getData('info'))
-            info.id = guid()
+            info.id = guid();
+            debugger;
             let name = info.name //拖动的组件名字
             let component,
                 template,
@@ -218,7 +219,7 @@ export default {
                         //嵌套模板
                     let nestComponent = getTemplate(info, { //传入{slot}会给获取到的模板添加slot="xxx"
                         slot
-                    })
+                    });
 
                     nestComponent.attributes.slot = slot
                     nestComponent.parentId = components[index].info.id
@@ -266,7 +267,24 @@ export default {
 
                     components.push(component)
                     this.components = components;
-                    this.mount()
+                    this.mount();
+                    if(component.info.ui==="Echarts"){
+                      let myChart = this.$echarts.init(document.getElementById(component.info.id));
+                      // 绘制图表
+                      myChart.setOption({
+                        title: {text: '在Vue中使用echarts'},
+                        tooltip: {},
+                        xAxis: {
+                          data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+                        },
+                        yAxis: {},
+                        series: [{
+                          name: '销量',
+                          type: 'bar',
+                          data: [5, 20, 36, 10, 10, 20]
+                        }]
+                      });
+                    }
 
                 } else {
                     let index = components.findIndex(component => component.info.id === this.insertPosition.component.info.id)

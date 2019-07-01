@@ -49,7 +49,8 @@ var handle = function(_attr, _slots, info) {
     }
 
     //字符串模板操作
-    let stringAttr = getStringTypeAttr(attributes)
+    let stringAttr = getStringTypeAttr(attributes);
+  debugger;
     let template = `<mu-appbar 
                     ${stringAttr}>
                     ${subContent}

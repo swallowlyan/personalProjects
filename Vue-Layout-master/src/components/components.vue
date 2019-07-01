@@ -10,6 +10,8 @@
                 </mu-menu-item>
                 <mu-menu-item title="Element-UI" value="Element-UI">
                 </mu-menu-item>
+              <mu-menu-item title="Echarts" value="Echarts">
+              </mu-menu-item>
                 <mu-menu-item title="通用" value="Common">
                 </mu-menu-item>
             </mu-select-field>
@@ -241,6 +243,13 @@
                 </li>
             </ul>
         </div>
+      <div v-if="activeUI==='Echarts'">
+        <ul class="components-list">
+          <li draggable="true" @dragstart="dragStart" data-name="Bar">
+            <bar/>
+          </li>
+        </ul>
+      </div>
     </section>
 </template>
 <script>
@@ -248,6 +257,7 @@ import museUiList from './list/muse-ui'
 import mintUiList from './list/mint-ui'
 import iViewUiList from './list/iview-ui'
 import elementUiList from './list/element-ui'
+import echartsList from './list/echarts'
 export default {
     name: 'components',
     data() {
@@ -297,7 +307,8 @@ export default {
         ...museUiList,
         ...mintUiList,
         ...iViewUiList,
-      ...elementUiList
+      ...elementUiList,
+      ...echartsList
     }
 }
 </script>

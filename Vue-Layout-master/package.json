@@ -15,6 +15,7 @@
   "dependencies": {
     "codemirror": "^5.27.4",
     "dragula": "^3.7.2",
+    "echarts": "^4.2.1",
     "element-ui": "^2.7.2",
     "iview": "^2.2.0",
     "jotted": "^1.5.1",

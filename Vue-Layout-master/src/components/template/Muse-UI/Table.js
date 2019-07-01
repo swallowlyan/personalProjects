@@ -204,7 +204,8 @@ var handle = function(_attr, _slots, { id }) {
         }
     }
     //字符串模板操作
-    let stringAttr = getStringTypeAttr(attributes)
+    let stringAttr = getStringTypeAttr(attributes);
+    debugger;
     let template = `<mu-table 
                         ${stringAttr}>
                         ${subContent}

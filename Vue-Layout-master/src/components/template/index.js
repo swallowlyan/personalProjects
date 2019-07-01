@@ -3,6 +3,7 @@ import MuseUI from './Muse-UI'
 import MintUI from './Mint-UI'
 import iViewUI from './iView-UI'
 import ElementUI from './Element-UI'
+import Echarts from './Echarts'
 
 var getTemplate = function(info, _attr = {}, _slots = {}) {
     let component;
@@ -20,10 +21,13 @@ var getTemplate = function(info, _attr = {}, _slots = {}) {
             component = Common[info.name](_attr, _slots, info)
             break
         case 'Element-UI':
-          console.info(info);
-          console.info(ElementUI);
+          debugger;
             component = ElementUI[info.name](_attr, _slots, info);
             break
+      case 'Echarts':
+        debugger;
+        component = Echarts[info.name](_attr, _slots, info);
+        break
     }
 
     //为了不让二次获取模板时丢失slot信息

@@ -27,6 +27,10 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 Vue.use(ElementUI)
 
+//echarts
+import echarts from 'echarts'
+Vue.prototype.$echarts = echarts
+
 //为代码文本提供高亮、缩进
 import VueHighlightJS from 'vue-highlightjs'
 Vue.use(VueHighlightJS)
