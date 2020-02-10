@@ -11,8 +11,8 @@ var handle = function(_attr, _slots, info) {
       value:"bar"
     },
     xData:{
-      type:"Object",
-      value:"{test1:'1'}"
+      type:"Array",
+      value:["test1"]
     }
   },
     slots = {

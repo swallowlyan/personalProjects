@@ -12,7 +12,7 @@ var handle = function(_attr, _slots, info) {
     },
     xData:{
       type:"Object",
-      value:"{test1:'1'}"
+      value:{test1:"1"}
     }
   },
     slots = {

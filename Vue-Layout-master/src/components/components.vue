@@ -170,7 +170,7 @@
                     <Icon type="happy-outline" :size="28" /> icon
                 </li>
                 <li draggable="true" @dragstart="dragStart" data-name="Input">
-                        <Input placeholder="Input"></Input>
+                        <!-- <Input placeholder="Input"></Input> -->
                 </li>
                 <li draggable="true" @dragstart="dragStart" data-name="Radio">
                     <Radio>Radio</Radio>

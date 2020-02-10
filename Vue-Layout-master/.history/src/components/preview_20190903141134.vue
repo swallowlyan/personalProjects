@@ -491,7 +491,6 @@ export default {
             style.appendChild(cssText)
                 // let sysCssText=document.createTextNode(`\ndiv:last-child{margin-bottom:100px;}`)
                 // style.appendChild(sysCssText)
-                console.info(this.$refs.preview);
                 // 动态添加scoped style
             scopedCss.applyTo(this.$refs.preview);
         },

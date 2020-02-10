@@ -25,7 +25,6 @@ var getTemplate = function(info, _attr = {}, _slots = {}) {
             component = ElementUI[info.name](_attr, _slots, info);
             break
       case 'Echarts':
-        debugger;
         component = Echarts[info.name](_attr, _slots, info);
         break
     }
